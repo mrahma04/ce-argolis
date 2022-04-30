@@ -1,0 +1,27 @@
+{
+  "name": "ce-argolis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrahma04/ce-argolis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrahma04/ce-argolis/issues"
+  },
+  "homepage": "https://github.com/mrahma04/ce-argolis#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "googleapis": "^100.0.0",
+    "uuid": "^8.3.2"
+  }
+}
